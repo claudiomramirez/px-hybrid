@@ -1,4 +1,4 @@
 
  dependencies {
-    compile ('com.mercadopago:sdk:2.3.6@aar') { transitive = true }
+    compile ('com.mercadopago:sdk:2.0.1@aar') { transitive = true }
 }
